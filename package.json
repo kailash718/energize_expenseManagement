@@ -1,0 +1,11 @@
+{
+  "name": "university-expense-management-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack MERN University Expense Submission & Multi-Level Approval System",
+  "scripts": {
+    "seed": "npm run seed --prefix backend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend"
+  }
+}
